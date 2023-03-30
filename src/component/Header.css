@@ -1,0 +1,10 @@
+.container-header{
+
+}
+.container-header h2{
+    font-family: 'Exo 2';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 160%;
+}
