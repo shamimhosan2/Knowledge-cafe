@@ -1,5 +1,9 @@
-.product{
-    max-width: 1280px;
-    margin: 0, auto;
-    color: red;
-}
+
+/* .product{
+    display: grid;
+    grid-template-columns: 2fr  1fr;
+    gap: 25px;
+    margin-left: 100px;
+    margin-top: 35px;
+    margin-right: 100px;
+} */
