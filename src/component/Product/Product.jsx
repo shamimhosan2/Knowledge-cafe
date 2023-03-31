@@ -1,7 +1,7 @@
 import React from 'react';
 import './Product.css'
 const Product = (props) => {
-    const {img, name, time, logo}= props.product;
+    const {img, name, time, date,logo}= props.product;
    
 
 

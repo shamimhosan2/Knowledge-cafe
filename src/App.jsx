@@ -1,4 +1,4 @@
-import React from 'react';
+
 import './App.css'
 import Header from './component/Header'
 import Shop from './component/Shop/Shop'
