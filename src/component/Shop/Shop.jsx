@@ -18,10 +18,10 @@ useEffect(()=>{
             
             <div className='Product-container'>
                 {/* <h1>Product:{product.length}</h1> */}
-                {
+                {/* {
 
                         product.map(product => console.log(product))
-                }
+                } */}
 
 
 
@@ -29,6 +29,7 @@ useEffect(()=>{
 
                 product.map(product => <Product 
                 key={product.id}
+
                 product={product}
                 ></Product> )
                 }
