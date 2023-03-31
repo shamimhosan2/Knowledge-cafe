@@ -22,6 +22,10 @@ const Product = (props) => {
                
 
             </div>
+            <h2>{title}</h2>
+            <p>{tag}</p>
+            <a href="#">Mark as read</a>
+
         
             
            
