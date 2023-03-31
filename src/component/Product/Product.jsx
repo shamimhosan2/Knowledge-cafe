@@ -1,7 +1,7 @@
 import React from 'react';
 import './Product.css'
 const Product = (props) => {
-    const {img, name, time, date,logo}= props.product;
+    const {img, name, time,title, date,logo}= props.product;
    
 
 
@@ -24,7 +24,7 @@ const Product = (props) => {
             </div>
             <h2>{title}</h2>
             <p>{tag}</p>
-            <a href="#">Mark as read</a>
+            <a href=""></a>
 
         
             
