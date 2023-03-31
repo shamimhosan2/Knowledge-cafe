@@ -13,8 +13,11 @@ const Product = (props) => {
                     <img style={{width: '50px', height: '50px'}} src={logo} alt="" />
                     <div className="logo-name">
                         <h3>{name}</h3>
-                        <p>{time}</p>
+                        <p>{date}</p>
                     </div>
+                </div>
+                <div className="part-2">
+                    <p>{time}</p>
                 </div>
                
 
